@@ -51,7 +51,7 @@ Before running this project, ensure you have the following installed:
 
    ### Backend:
    ```bash
-   cd backend
+   cd api
    npm install
    ```
 
@@ -65,7 +65,7 @@ Before running this project, ensure you have the following installed:
 
 1. Start the backend server:
    ```bash
-   cd backend
+   cd api
    npm start
    ```
    The backend will run on `http://localhost:5000` (or as configured).
@@ -73,7 +73,7 @@ Before running this project, ensure you have the following installed:
 2. Start the frontend development server:
    ```bash
    cd ../frontend
-   ng serve
+   ng start
    ```
    The frontend will run on `http://localhost:4200`.
 
